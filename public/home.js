@@ -117,7 +117,16 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Wells Fargo Support is a customer service resource provided by Wells Fargo to assist customers with their banking and financial needs. Here are some key aspects of Wells Fargo Support:
+
+Support Topics:
+1. *Account Management*: Get help with account-related issues, such as account balances, transactions, and statements.
+2. *Bill Pay*: Receive assistance with paying bills online or through the mobile app.
+3. *Credit Cards*: Get support with credit card-related issues, such as applying for a card, checking balances, or reporting lost or stolen cards.
+4. *Loans*: Get help with loan-related issues, such as applying for a loan, checking loan balances, or making payments.
+5. *Technical Issues*: Troubleshoot technical problems with online banking, mobile banking, or other Wells Fargo digital services.
+
+By reaching out to Wells Fargo Support, you can get the help you need to resolve issues, answer questions, and make the most of your banking experience..</p>
           </div>
         `
         break
